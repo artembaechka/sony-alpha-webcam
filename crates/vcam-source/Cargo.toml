@@ -4,6 +4,7 @@ description = "Media Foundation virtual camera source for sony-remote (loaded by
 version.workspace = true
 edition.workspace = true
 license.workspace = true
+repository.workspace = true
 
 [lib]
 name = "sony_remote_vcam"

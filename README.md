@@ -1,5 +1,7 @@
 # sony-remote
 
+[![CI](https://github.com/artembaechka/sony-alpha-webcam/actions/workflows/ci.yml/badge.svg)](https://github.com/artembaechka/sony-alpha-webcam/actions/workflows/ci.yml)
+
 Open-source live view, remote control and virtual webcam for Sony Alpha
 cameras over USB, written in Rust. A replacement for Sony's *Imaging Edge
 Webcam* that needs **no driver installation**.
@@ -33,6 +35,13 @@ Notes on the A6300 (see `fixtures/a6300` for raw dumps):
   next one. Jumping far (e.g. ISO 100 → 6400) therefore takes a few seconds.
 - Exposure is only adjustable with the mode dial on P/A/S/M.
 - The A6300 does not offer remote manual focus; use the focus ring.
+
+## Download
+
+Grab `sony-remote-<version>-windows-x64.zip` from the
+[Releases](https://github.com/artembaechka/sony-alpha-webcam/releases) page,
+unpack it anywhere and run `sony-remote.exe`. Keep `sony_remote_vcam.dll`
+next to the executable — it is needed for the virtual webcam.
 
 ## Camera setup
 

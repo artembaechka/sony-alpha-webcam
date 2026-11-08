@@ -4,6 +4,7 @@ description = "PTP transport over Windows Portable Devices (MTP extension comman
 version.workspace = true
 edition.workspace = true
 license.workspace = true
+repository.workspace = true
 
 [dependencies]
 sony-ptp.workspace = true

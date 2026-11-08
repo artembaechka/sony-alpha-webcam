@@ -4,6 +4,7 @@ description = "Open-source live view, remote control and virtual webcam for Sony
 version.workspace = true
 edition.workspace = true
 license.workspace = true
+repository.workspace = true
 
 [[bin]]
 name = "sony-remote"
