@@ -1,0 +1,21 @@
+[package]
+name = "ptp-wpd"
+description = "PTP transport over Windows Portable Devices (MTP extension commands), no driver install needed"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+sony-ptp.workspace = true
+tracing.workspace = true
+thiserror.workspace = true
+
+[target.'cfg(windows)'.dependencies]
+windows-core.workspace = true
+windows = { workspace = true, features = [
+    "Win32_Foundation",
+    "Win32_Devices_PortableDevices",
+    "Win32_System_Com",
+    "Win32_System_Com_StructuredStorage",
+    "Win32_System_Variant",
+] }

@@ -1,0 +1,40 @@
+[package]
+name = "sony-remote"
+description = "Open-source live view, remote control and virtual webcam for Sony Alpha cameras over USB"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[[bin]]
+name = "sony-remote"
+path = "src/main.rs"
+
+[dependencies]
+sony-ptp.workspace = true
+ptp-wpd.workspace = true
+anyhow.workspace = true
+tracing.workspace = true
+tracing-subscriber.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+clap = { version = "4.5", features = ["derive"] }
+eframe = { version = "0.33", default-features = false, features = ["default_fonts", "glow"] }
+zune-jpeg = "0.5.15"
+zune-core = "0.5.3"
+crossbeam-channel = "0.5.17"
+windows-core.workspace = true
+windows = { workspace = true, features = [
+    "Win32_Foundation",
+    "Win32_System_Threading",
+    "Win32_System_Console",
+    "Win32_System_Registry",
+    "Win32_UI_Shell",
+    "Win32_UI_WindowsAndMessaging",
+    "Win32_Media_MediaFoundation",
+    "Win32_Media_KernelStreaming",
+    "Win32_System_Com",
+    "Win32_System_Com_StructuredStorage",
+    "Win32_System_Variant",
+    "Win32_System_LibraryLoader",
+] }
+vcam-shared.workspace = true

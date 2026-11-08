@@ -1,0 +1,1759 @@
+[
+  {
+    "code": 20484,
+    "data_type": 2,
+    "get_set": 1,
+    "is_enabled": 1,
+    "factory_default": {
+      "Int": 2
+    },
+    "current": {
+      "Int": 16
+    },
+    "form": {
+      "Enum": [
+        {
+          "Int": 2
+        },
+        {
+          "Int": 3
+        },
+        {
+          "Int": 4
+        },
+        {
+          "Int": 16
+        },
+        {
+          "Int": 19
+        }
+      ]
+    },
+    "settable_values": null
+  },
+  {
+    "code": 20485,
+    "data_type": 4,
+    "get_set": 1,
+    "is_enabled": 1,
+    "factory_default": {
+      "Int": 2
+    },
+    "current": {
+      "Int": 2
+    },
+    "form": {
+      "Enum": [
+        {
+          "Int": 2
+        },
+        {
+          "Int": 4
+        },
+        {
+          "Int": 32785
+        },
+        {
+          "Int": 32784
+        },
+        {
+          "Int": 6
+        },
+        {
+          "Int": 32769
+        },
+        {
+          "Int": 32770
+        },
+        {
+          "Int": 32771
+        },
+        {
+          "Int": 32772
+        },
+        {
+          "Int": 7
+        },
+        {
+          "Int": 32816
+        },
+        {
+          "Int": 32786
+        },
+        {
+          "Int": 32800
+        },
+        {
+          "Int": 32801
+        },
+        {
+          "Int": 32802
+        }
+      ]
+    },
+    "settable_values": null
+  },
+  {
+    "code": 20487,
+    "data_type": 4,
+    "get_set": 0,
+    "is_enabled": 1,
+    "factory_default": {
+      "Int": 65535
+    },
+    "current": {
+      "Int": 350
+    },
+    "form": {
+      "Range": {
+        "min": {
+          "Int": 0
+        },
+        "max": {
+          "Int": 65535
+        },
+        "step": {
+          "Int": 1
+        }
+      }
+    },
+    "settable_values": null
+  },
+  {
+    "code": 20490,
+    "data_type": 4,
+    "get_set": 0,
+    "is_enabled": 2,
+    "factory_default": {
+      "Int": 1
+    },
+    "current": {
+      "Int": 32773
+    },
+    "form": {
+      "Enum": [
+        {
+          "Int": 1
+        },
+        {
+          "Int": 2
+        },
+        {
+          "Int": 32772
+        },
+        {
+          "Int": 32773
+        },
+        {
+          "Int": 32774
+        }
+      ]
+    },
+    "settable_values": null
+  },
+  {
+    "code": 20491,
+    "data_type": 4,
+    "get_set": 0,
+    "is_enabled": 2,
+    "factory_default": {
+      "Int": 1
+    },
+    "current": {
+      "Int": 1
+    },
+    "form": {
+      "Enum": [
+        {
+          "Int": 4
+        },
+        {
+          "Int": 1
+        },
+        {
+          "Int": 32770
+        }
+      ]
+    },
+    "settable_values": null
+  },
+  {
+    "code": 20492,
+    "data_type": 4,
+    "get_set": 0,
+    "is_enabled": 0,
+    "factory_default": {
+      "Int": 1
+    },
+    "current": {
+      "Int": 3
+    },
+    "form": {
+      "Enum": [
+        {
+          "Int": 2
+        },
+        {
+          "Int": 1
+        },
+        {
+          "Int": 4
+        },
+        {
+          "Int": 3
+        },
+        {
+          "Int": 5
+        },
+        {
+          "Int": 32769
+        },
+        {
+          "Int": 32771
+        },
+        {
+          "Int": 32772
+        },
+        {
+          "Int": 32817
+        },
+        {
+          "Int": 32818
+        }
+      ]
+    },
+    "settable_values": null
+  },
+  {
+    "code": 20494,
+    "data_type": 4,
+    "get_set": 0,
+    "is_enabled": 2,
+    "factory_default": {
+      "Int": 1
+    },
+    "current": {
+      "Int": 1
+    },
+    "form": {
+      "Enum": [
+        {
+          "Int": 32768
+        },
+        {
+          "Int": 32769
+        },
+        {
+          "Int": 2
+        },
+        {
+          "Int": 3
+        },
+        {
+          "Int": 4
+        },
+        {
+          "Int": 1
+        },
+        {
+          "Int": 32848
+        },
+        {
+          "Int": 32849
+        },
+        {
+          "Int": 32850
+        },
+        {
+          "Int": 32851
+        },
+        {
+          "Int": 32852
+        },
+        {
+          "Int": 32896
+        },
+        {
+          "Int": 32897
+        },
+        {
+          "Int": 32898
+        },
+        {
+          "Int": 32853
+        },
+        {
+          "Int": 32854
+        },
+        {
+          "Int": 32855
+        },
+        {
+          "Int": 32856
+        },
+        {
+          "Int": 32899
+        },
+        {
+          "Int": 32833
+        },
+        {
+          "Int": 7
+        },
+        {
+          "Int": 32785
+        },
+        {
+          "Int": 32789
+        },
+        {
+          "Int": 32788
+        },
+        {
+          "Int": 32786
+        },
+        {
+          "Int": 32787
+        },
+        {
+          "Int": 32790
+        },
+        {
+          "Int": 32791
+        },
+        {
+          "Int": 32792
+        }
+      ]
+    },
+    "settable_values": null
+  },
+  {
+    "code": 20496,
+    "data_type": 3,
+    "get_set": 0,
+    "is_enabled": 1,
+    "factory_default": {
+      "Int": 0
+    },
+    "current": {
+      "Int": 0
+    },
+    "form": {
+      "Enum": [
+        {
+          "Int": 0
+        },
+        {
+          "Int": 5000
+        },
+        {
+          "Int": 4700
+        },
+        {
+          "Int": 4500
+        },
+        {
+          "Int": 4300
+        },
+        {
+          "Int": 4000
+        },
+        {
+          "Int": 3700
+        },
+        {
+          "Int": 3500
+        },
+        {
+          "Int": 3300
+        },
+        {
+          "Int": 3000
+        },
+        {
+          "Int": 2700
+        },
+        {
+          "Int": 2500
+        },
+        {
+          "Int": 2300
+        },
+        {
+          "Int": 2000
+        },
+        {
+          "Int": 1700
+        },
+        {
+          "Int": 1500
+        },
+        {
+          "Int": 1300
+        },
+        {
+          "Int": 1000
+        },
+        {
+          "Int": 700
+        },
+        {
+          "Int": 500
+        },
+        {
+          "Int": 300
+        },
+        {
+          "Int": -300
+        },
+        {
+          "Int": -500
+        },
+        {
+          "Int": -700
+        },
+        {
+          "Int": -1000
+        },
+        {
+          "Int": -1300
+        },
+        {
+          "Int": -1500
+        },
+        {
+          "Int": -1700
+        },
+        {
+          "Int": -2000
+        },
+        {
+          "Int": -2300
+        },
+        {
+          "Int": -2500
+        },
+        {
+          "Int": -2700
+        },
+        {
+          "Int": -3000
+        },
+        {
+          "Int": -3300
+        },
+        {
+          "Int": -3500
+        },
+        {
+          "Int": -3700
+        },
+        {
+          "Int": -4000
+        },
+        {
+          "Int": -4300
+        },
+        {
+          "Int": -4500
+        },
+        {
+          "Int": -4700
+        },
+        {
+          "Int": -5000
+        }
+      ]
+    },
+    "settable_values": null
+  },
+  {
+    "code": 20499,
+    "data_type": 4,
+    "get_set": 1,
+    "is_enabled": 1,
+    "factory_default": {
+      "Int": 1
+    },
+    "current": {
+      "Int": 1
+    },
+    "form": {
+      "Enum": [
+        {
+          "Int": 1
+        },
+        {
+          "Int": 32784
+        },
+        {
+          "Int": 2
+        },
+        {
+          "Int": 32789
+        },
+        {
+          "Int": 32786
+        },
+        {
+          "Int": 32773
+        },
+        {
+          "Int": 32771
+        },
+        {
+          "Int": 32772
+        },
+        {
+          "Int": 32776
+        },
+        {
+          "Int": 32777
+        },
+        {
+          "Int": 32780
+        },
+        {
+          "Int": 32781
+        },
+        {
+          "Int": 32782
+        },
+        {
+          "Int": 32783
+        },
+        {
+          "Int": 33591
+        },
+        {
+          "Int": 34103
+        },
+        {
+          "Int": 35127
+        },
+        {
+          "Int": 33623
+        },
+        {
+          "Int": 34135
+        },
+        {
+          "Int": 35159
+        },
+        {
+          "Int": 33655
+        },
+        {
+          "Int": 34167
+        },
+        {
+          "Int": 35191
+        },
+        {
+          "Int": 33553
+        },
+        {
+          "Int": 34065
+        },
+        {
+          "Int": 35089
+        },
+        {
+          "Int": 33569
+        },
+        {
+          "Int": 34081
+        },
+        {
+          "Int": 33585
+        },
+        {
+          "Int": 34097
+        },
+        {
+          "Int": 33590
+        },
+        {
+          "Int": 34102
+        },
+        {
+          "Int": 35126
+        },
+        {
+          "Int": 33622
+        },
+        {
+          "Int": 34134
+        },
+        {
+          "Int": 35158
+        },
+        {
+          "Int": 33654
+        },
+        {
+          "Int": 34166
+        },
+        {
+          "Int": 35190
+        },
+        {
+          "Int": 33552
+        },
+        {
+          "Int": 34064
+        },
+        {
+          "Int": 35088
+        },
+        {
+          "Int": 33568
+        },
+        {
+          "Int": 34080
+        },
+        {
+          "Int": 33584
+        },
+        {
+          "Int": 34096
+        },
+        {
+          "Int": 32792
+        },
+        {
+          "Int": 32808
+        },
+        {
+          "Int": 32793
+        },
+        {
+          "Int": 32809
+        }
+      ]
+    },
+    "settable_values": null
+  },
+  {
+    "code": 53760,
+    "data_type": 3,
+    "get_set": 0,
+    "is_enabled": 1,
+    "factory_default": {
+      "Int": 0
+    },
+    "current": {
+      "Int": 0
+    },
+    "form": {
+      "Enum": [
+        {
+          "Int": 0
+        },
+        {
+          "Int": 3000
+        },
+        {
+          "Int": 2700
+        },
+        {
+          "Int": 2500
+        },
+        {
+          "Int": 2300
+        },
+        {
+          "Int": 2000
+        },
+        {
+          "Int": 1700
+        },
+        {
+          "Int": 1500
+        },
+        {
+          "Int": 1300
+        },
+        {
+          "Int": 1000
+        },
+        {
+          "Int": 700
+        },
+        {
+          "Int": 500
+        },
+        {
+          "Int": 300
+        },
+        {
+          "Int": -300
+        },
+        {
+          "Int": -500
+        },
+        {
+          "Int": -700
+        },
+        {
+          "Int": -1000
+        },
+        {
+          "Int": -1300
+        },
+        {
+          "Int": -1500
+        },
+        {
+          "Int": -1700
+        },
+        {
+          "Int": -2000
+        },
+        {
+          "Int": -2300
+        },
+        {
+          "Int": -2500
+        },
+        {
+          "Int": -2700
+        },
+        {
+          "Int": -3000
+        }
+      ]
+    },
+    "settable_values": null
+  },
+  {
+    "code": 53761,
+    "data_type": 2,
+    "get_set": 1,
+    "is_enabled": 1,
+    "factory_default": {
+      "Int": 1
+    },
+    "current": {
+      "Int": 19
+    },
+    "form": {
+      "Enum": [
+        {
+          "Int": 1
+        },
+        {
+          "Int": 31
+        },
+        {
+          "Int": 17
+        },
+        {
+          "Int": 18
+        },
+        {
+          "Int": 19
+        },
+        {
+          "Int": 20
+        },
+        {
+          "Int": 21
+        }
+      ]
+    },
+    "settable_values": null
+  },
+  {
+    "code": 53763,
+    "data_type": 2,
+    "get_set": 1,
+    "is_enabled": 0,
+    "factory_default": {
+      "Int": 4
+    },
+    "current": {
+      "Int": 1
+    },
+    "form": {
+      "Enum": [
+        {
+          "Int": 4
+        },
+        {
+          "Int": 14
+        },
+        {
+          "Int": 15
+        },
+        {
+          "Int": 5
+        },
+        {
+          "Int": 6
+        },
+        {
+          "Int": 7
+        },
+        {
+          "Int": 16
+        },
+        {
+          "Int": 17
+        },
+        {
+          "Int": 18
+        },
+        {
+          "Int": 8
+        },
+        {
+          "Int": 19
+        },
+        {
+          "Int": 9
+        },
+        {
+          "Int": 10
+        },
+        {
+          "Int": 11
+        },
+        {
+          "Int": 20
+        },
+        {
+          "Int": 21
+        },
+        {
+          "Int": 12
+        },
+        {
+          "Int": 23
+        },
+        {
+          "Int": 24
+        },
+        {
+          "Int": 13
+        },
+        {
+          "Int": 1
+        },
+        {
+          "Int": 2
+        },
+        {
+          "Int": 3
+        }
+      ]
+    },
+    "settable_values": null
+  },
+  {
+    "code": 53773,
+    "data_type": 6,
+    "get_set": 0,
+    "is_enabled": 1,
+    "factory_default": {
+      "Int": 4294967295
+    },
+    "current": {
+      "Int": 65661
+    },
+    "form": {
+      "Range": {
+        "min": {
+          "Int": 0
+        },
+        "max": {
+          "Int": 4294967295
+        },
+        "step": {
+          "Int": 1
+        }
+      }
+    },
+    "settable_values": null
+  },
+  {
+    "code": 53774,
+    "data_type": 2,
+    "get_set": 0,
+    "is_enabled": 2,
+    "factory_default": {
+      "Int": 1
+    },
+    "current": {
+      "Int": 13
+    },
+    "form": {
+      "Enum": [
+        {
+          "Int": 1
+        },
+        {
+          "Int": 2
+        },
+        {
+          "Int": 3
+        },
+        {
+          "Int": 11
+        },
+        {
+          "Int": 8
+        },
+        {
+          "Int": 9
+        },
+        {
+          "Int": 10
+        },
+        {
+          "Int": 4
+        },
+        {
+          "Int": 12
+        },
+        {
+          "Int": 5
+        },
+        {
+          "Int": 13
+        },
+        {
+          "Int": 6
+        },
+        {
+          "Int": 14
+        },
+        {
+          "Int": 7
+        },
+        {
+          "Int": 15
+        }
+      ]
+    },
+    "settable_values": null
+  },
+  {
+    "code": 53775,
+    "data_type": 4,
+    "get_set": 1,
+    "is_enabled": 0,
+    "factory_default": {
+      "Int": 5500
+    },
+    "current": {
+      "Int": 0
+    },
+    "form": {
+      "Range": {
+        "min": {
+          "Int": 2500
+        },
+        "max": {
+          "Int": 9900
+        },
+        "step": {
+          "Int": 100
+        }
+      }
+    },
+    "settable_values": null
+  },
+  {
+    "code": 53776,
+    "data_type": 2,
+    "get_set": 1,
+    "is_enabled": 1,
+    "factory_default": {
+      "Int": 128
+    },
+    "current": {
+      "Int": 192
+    },
+    "form": {
+      "Range": {
+        "min": {
+          "Int": 164
+        },
+        "max": {
+          "Int": 220
+        },
+        "step": {
+          "Int": 1
+        }
+      }
+    },
+    "settable_values": null
+  },
+  {
+    "code": 53777,
+    "data_type": 2,
+    "get_set": 1,
+    "is_enabled": 1,
+    "factory_default": {
+      "Int": 1
+    },
+    "current": {
+      "Int": 2
+    },
+    "form": {
+      "Enum": [
+        {
+          "Int": 1
+        },
+        {
+          "Int": 2
+        }
+      ]
+    },
+    "settable_values": null
+  },
+  {
+    "code": 53778,
+    "data_type": 2,
+    "get_set": 0,
+    "is_enabled": 1,
+    "factory_default": {
+      "Int": 0
+    },
+    "current": {
+      "Int": 0
+    },
+    "form": {
+      "Range": {
+        "min": {
+          "Int": 0
+        },
+        "max": {
+          "Int": 15
+        },
+        "step": {
+          "Int": 1
+        }
+      }
+    },
+    "settable_values": null
+  },
+  {
+    "code": 53779,
+    "data_type": 2,
+    "get_set": 0,
+    "is_enabled": 2,
+    "factory_default": {
+      "Int": 1
+    },
+    "current": {
+      "Int": 1
+    },
+    "form": {
+      "Enum": [
+        {
+          "Int": 1
+        },
+        {
+          "Int": 2
+        },
+        {
+          "Int": 3
+        },
+        {
+          "Int": 5
+        },
+        {
+          "Int": 6
+        },
+        {
+          "Int": 7
+        }
+      ]
+    },
+    "settable_values": null
+  },
+  {
+    "code": 53780,
+    "data_type": 6,
+    "get_set": 0,
+    "is_enabled": 1,
+    "factory_default": {
+      "Int": 4294967295
+    },
+    "current": {
+      "Int": 33911808
+    },
+    "form": {
+      "Range": {
+        "min": {
+          "Int": 0
+        },
+        "max": {
+          "Int": 4294967295
+        },
+        "step": {
+          "Int": 1
+        }
+      }
+    },
+    "settable_values": null
+  },
+  {
+    "code": 53781,
+    "data_type": 4,
+    "get_set": 0,
+    "is_enabled": 1,
+    "factory_default": {
+      "Int": 0
+    },
+    "current": {
+      "Int": 0
+    },
+    "form": {
+      "Range": {
+        "min": {
+          "Int": 0
+        },
+        "max": {
+          "Int": 65535
+        },
+        "step": {
+          "Int": 1
+        }
+      }
+    },
+    "settable_values": null
+  },
+  {
+    "code": 53783,
+    "data_type": 2,
+    "get_set": 0,
+    "is_enabled": 2,
+    "factory_default": {
+      "Int": 1
+    },
+    "current": {
+      "Int": 1
+    },
+    "form": {
+      "Enum": [
+        {
+          "Int": 2
+        },
+        {
+          "Int": 1
+        }
+      ]
+    },
+    "settable_values": null
+  },
+  {
+    "code": 53784,
+    "data_type": 1,
+    "get_set": 0,
+    "is_enabled": 2,
+    "factory_default": {
+      "Int": -1
+    },
+    "current": {
+      "Int": 26
+    },
+    "form": {
+      "Range": {
+        "min": {
+          "Int": -1
+        },
+        "max": {
+          "Int": 100
+        },
+        "step": {
+          "Int": 1
+        }
+      }
+    },
+    "settable_values": null
+  },
+  {
+    "code": 53785,
+    "data_type": 2,
+    "get_set": 0,
+    "is_enabled": 2,
+    "factory_default": {
+      "Int": 1
+    },
+    "current": {
+      "Int": 2
+    },
+    "form": {
+      "Enum": [
+        {
+          "Int": 2
+        },
+        {
+          "Int": 1
+        }
+      ]
+    },
+    "settable_values": null
+  },
+  {
+    "code": 53787,
+    "data_type": 4,
+    "get_set": 1,
+    "is_enabled": 0,
+    "factory_default": {
+      "Int": 32768
+    },
+    "current": {
+      "Int": 32768
+    },
+    "form": {
+      "Enum": [
+        {
+          "Int": 32768
+        }
+      ]
+    },
+    "settable_values": null
+  },
+  {
+    "code": 53788,
+    "data_type": 2,
+    "get_set": 1,
+    "is_enabled": 1,
+    "factory_default": {
+      "Int": 128
+    },
+    "current": {
+      "Int": 192
+    },
+    "form": {
+      "Range": {
+        "min": {
+          "Int": 164
+        },
+        "max": {
+          "Int": 220
+        },
+        "step": {
+          "Int": 2
+        }
+      }
+    },
+    "settable_values": null
+  },
+  {
+    "code": 53789,
+    "data_type": 2,
+    "get_set": 0,
+    "is_enabled": 2,
+    "factory_default": {
+      "Int": 0
+    },
+    "current": {
+      "Int": 0
+    },
+    "form": {
+      "Range": {
+        "min": {
+          "Int": 0
+        },
+        "max": {
+          "Int": 2
+        },
+        "step": {
+          "Int": 1
+        }
+      }
+    },
+    "settable_values": null
+  },
+  {
+    "code": 53790,
+    "data_type": 6,
+    "get_set": 0,
+    "is_enabled": 1,
+    "factory_default": {
+      "Int": 16777215
+    },
+    "current": {
+      "Int": 16777215
+    },
+    "form": {
+      "Enum": [
+        {
+          "Int": 16777215
+        },
+        {
+          "Int": 25
+        },
+        {
+          "Int": 50
+        },
+        {
+          "Int": 64
+        },
+        {
+          "Int": 80
+        },
+        {
+          "Int": 100
+        },
+        {
+          "Int": 125
+        },
+        {
+          "Int": 160
+        },
+        {
+          "Int": 200
+        },
+        {
+          "Int": 250
+        },
+        {
+          "Int": 320
+        },
+        {
+          "Int": 400
+        },
+        {
+          "Int": 500
+        },
+        {
+          "Int": 640
+        },
+        {
+          "Int": 800
+        },
+        {
+          "Int": 1000
+        },
+        {
+          "Int": 1250
+        },
+        {
+          "Int": 1600
+        },
+        {
+          "Int": 2000
+        },
+        {
+          "Int": 2500
+        },
+        {
+          "Int": 3200
+        },
+        {
+          "Int": 4000
+        },
+        {
+          "Int": 5000
+        },
+        {
+          "Int": 6400
+        },
+        {
+          "Int": 8000
+        },
+        {
+          "Int": 10000
+        },
+        {
+          "Int": 12800
+        },
+        {
+          "Int": 16000
+        },
+        {
+          "Int": 20000
+        },
+        {
+          "Int": 25600
+        },
+        {
+          "Int": 32000
+        },
+        {
+          "Int": 40000
+        },
+        {
+          "Int": 51200
+        },
+        {
+          "Int": 64000
+        },
+        {
+          "Int": 80000
+        },
+        {
+          "Int": 102400
+        },
+        {
+          "Int": 128000
+        },
+        {
+          "Int": 160000
+        },
+        {
+          "Int": 204800
+        },
+        {
+          "Int": 256000
+        },
+        {
+          "Int": 320000
+        },
+        {
+          "Int": 409600
+        },
+        {
+          "Int": 33554431
+        },
+        {
+          "Int": 16777241
+        },
+        {
+          "Int": 16777266
+        },
+        {
+          "Int": 16777280
+        },
+        {
+          "Int": 16777296
+        },
+        {
+          "Int": 16777316
+        },
+        {
+          "Int": 16777341
+        },
+        {
+          "Int": 16777376
+        },
+        {
+          "Int": 16777416
+        },
+        {
+          "Int": 16777466
+        },
+        {
+          "Int": 16777536
+        },
+        {
+          "Int": 16777616
+        },
+        {
+          "Int": 16777716
+        },
+        {
+          "Int": 16777856
+        },
+        {
+          "Int": 16778016
+        },
+        {
+          "Int": 16778216
+        },
+        {
+          "Int": 16778466
+        },
+        {
+          "Int": 16778816
+        },
+        {
+          "Int": 16779216
+        },
+        {
+          "Int": 16779716
+        },
+        {
+          "Int": 16780416
+        },
+        {
+          "Int": 16781216
+        },
+        {
+          "Int": 16782216
+        },
+        {
+          "Int": 16783616
+        },
+        {
+          "Int": 16785216
+        },
+        {
+          "Int": 16787216
+        },
+        {
+          "Int": 16790016
+        },
+        {
+          "Int": 16793216
+        },
+        {
+          "Int": 16802816
+        },
+        {
+          "Int": 16828416
+        },
+        {
+          "Int": 16879616
+        },
+        {
+          "Int": 16982016
+        },
+        {
+          "Int": 17186816
+        },
+        {
+          "Int": 50331647
+        },
+        {
+          "Int": 33554532
+        },
+        {
+          "Int": 33554632
+        },
+        {
+          "Int": 33554832
+        },
+        {
+          "Int": 33555232
+        },
+        {
+          "Int": 33556032
+        },
+        {
+          "Int": 33557632
+        },
+        {
+          "Int": 33560832
+        },
+        {
+          "Int": 33567232
+        },
+        {
+          "Int": 33580032
+        },
+        {
+          "Int": 33605632
+        }
+      ]
+    },
+    "settable_values": null
+  },
+  {
+    "code": 53791,
+    "data_type": 2,
+    "get_set": 0,
+    "is_enabled": 2,
+    "factory_default": {
+      "Int": 1
+    },
+    "current": {
+      "Int": 1
+    },
+    "form": {
+      "Enum": [
+        {
+          "Int": 2
+        },
+        {
+          "Int": 1
+        }
+      ]
+    },
+    "settable_values": null
+  },
+  {
+    "code": 53793,
+    "data_type": 2,
+    "get_set": 1,
+    "is_enabled": 1,
+    "factory_default": {
+      "Int": 0
+    },
+    "current": {
+      "Int": 1
+    },
+    "form": {
+      "Enum": [
+        {
+          "Int": 0
+        },
+        {
+          "Int": 1
+        },
+        {
+          "Int": 2
+        }
+      ]
+    },
+    "settable_values": null
+  },
+  {
+    "code": 53953,
+    "data_type": 4,
+    "get_set": 129,
+    "is_enabled": 1,
+    "factory_default": {
+      "Int": 1
+    },
+    "current": {
+      "Int": 1
+    },
+    "form": {
+      "Enum": [
+        {
+          "Int": 1
+        },
+        {
+          "Int": 2
+        }
+      ]
+    },
+    "settable_values": null
+  },
+  {
+    "code": 53954,
+    "data_type": 4,
+    "get_set": 129,
+    "is_enabled": 1,
+    "factory_default": {
+      "Int": 1
+    },
+    "current": {
+      "Int": 1
+    },
+    "form": {
+      "Enum": [
+        {
+          "Int": 1
+        },
+        {
+          "Int": 2
+        }
+      ]
+    },
+    "settable_values": null
+  },
+  {
+    "code": 53955,
+    "data_type": 4,
+    "get_set": 129,
+    "is_enabled": 1,
+    "factory_default": {
+      "Int": 1
+    },
+    "current": {
+      "Int": 1
+    },
+    "form": {
+      "Enum": [
+        {
+          "Int": 1
+        },
+        {
+          "Int": 2
+        }
+      ]
+    },
+    "settable_values": null
+  },
+  {
+    "code": 53957,
+    "data_type": 4,
+    "get_set": 131,
+    "is_enabled": 1,
+    "factory_default": {
+      "Int": 1
+    },
+    "current": {
+      "Int": 1
+    },
+    "form": {
+      "Enum": [
+        {
+          "Int": 1
+        },
+        {
+          "Int": 2
+        }
+      ]
+    },
+    "settable_values": null
+  },
+  {
+    "code": 53959,
+    "data_type": 4,
+    "get_set": 129,
+    "is_enabled": 1,
+    "factory_default": {
+      "Int": 1
+    },
+    "current": {
+      "Int": 1
+    },
+    "form": {
+      "Enum": [
+        {
+          "Int": 1
+        },
+        {
+          "Int": 2
+        }
+      ]
+    },
+    "settable_values": null
+  },
+  {
+    "code": 53960,
+    "data_type": 4,
+    "get_set": 129,
+    "is_enabled": 1,
+    "factory_default": {
+      "Int": 1
+    },
+    "current": {
+      "Int": 1
+    },
+    "form": {
+      "Enum": [
+        {
+          "Int": 1
+        },
+        {
+          "Int": 2
+        }
+      ]
+    },
+    "settable_values": null
+  },
+  {
+    "code": 53961,
+    "data_type": 4,
+    "get_set": 129,
+    "is_enabled": 1,
+    "factory_default": {
+      "Int": 1
+    },
+    "current": {
+      "Int": 1
+    },
+    "form": {
+      "Enum": [
+        {
+          "Int": 1
+        },
+        {
+          "Int": 2
+        }
+      ]
+    },
+    "settable_values": null
+  }
+]
